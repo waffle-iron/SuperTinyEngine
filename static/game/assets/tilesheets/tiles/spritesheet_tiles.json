@@ -1,0 +1,22 @@
+{
+    "Tilesheet": {
+        "Name": "tiles",
+        "Path": "/static/game/assets/tilesheets/tiles/spritesheet_tiles.png",
+        "TileWidth": 64,
+        "TileHeight": 64,
+        "VerticalSpacing": 10,
+        "HorizontalSpacing": 10
+    },
+    "Tiles": [
+        {
+            "Name": "Grass",
+            "X": 0,
+            "Y": 0
+        },
+        {
+            "Name": "Dirt",
+            "X": 370,
+            "Y": 0
+        }
+    ]
+}

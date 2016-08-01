@@ -1,0 +1,17 @@
+{
+    "tilesheets": "spritesheet_tiles",
+    "grounds": [
+        [
+            {
+                "Name": "Grass",
+                "x": 50,
+                "y": 50
+            },
+            {
+                "Name": "Dirt",
+                "x": 50,
+                "y": 150
+            }
+        ]
+    ]
+}
