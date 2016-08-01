@@ -5,9 +5,7 @@
   "description": "",
   "scripts": {
     "build": "fable",
-    "serve": "http-server",
-    "fable-watch": "fable -w",
-    "stylus-watch": "stylus -u autoprefixer-stylus -w stylus/style.styl -o static/css/style.css"
+    "fable-watch": "fable -w"
   },
   "author": "Maxime Mangel <mangel.maxime@outlook.com>",
   "license": "ISC",

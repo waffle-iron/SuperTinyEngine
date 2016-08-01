@@ -4,7 +4,6 @@
   "projFile": "./src/Main.fsx",
   "outDir": "temp",
   "scripts": {
-    "prebuild": "npm install",
     "postbuild": "webpack"
   }
 }

@@ -6,7 +6,7 @@ var cfg = {
     entry: "./temp/Main.js",
     output: {
         path: path.join(__dirname, "static/js/dist"),
-        filename: "fte.js"
+        filename: "sample.js"
     },
     module: {
         preLoaders: [

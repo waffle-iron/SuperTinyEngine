@@ -19,3 +19,6 @@ module Win =
 
   let dimensions () =
     canvas.width, canvas.height
+
+  type Window (idStr) =
+    member this.Id = idStr

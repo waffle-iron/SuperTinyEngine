@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "super-tiny-engine-sample-1",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "build": "fable",
+    "serve": "http-server",
+    "fable-watch": "fable -w",
+    "stylus-watch": "stylus -u autoprefixer-stylus -w stylus/style.styl -o static/css/style.css"
+  },
+  "author": "Maxime Mangel <mangel.maxime@outlook.com>",
+  "license": "ISC"
+}
