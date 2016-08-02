@@ -1,9 +1,0 @@
-{
-  "module": "commonjs",
-  "sourceMaps": true,
-  "projFile": "./src/Main.fsx",
-  "outDir": "temp",
-  "scripts": {
-    "postbuild": "webpack"
-  }
-}

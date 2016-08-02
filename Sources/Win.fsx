@@ -22,3 +22,8 @@ module Win =
 
   type Window (idStr) =
     member this.Id = idStr
+    member this.Canvas = document.getElementById "game" :?> HTMLCanvasElement
+    member this.Context = this.Canvas.getContext_2d()
+
+    member this.dimensions =
+      this.Canvas.width, this.Canvas.height
