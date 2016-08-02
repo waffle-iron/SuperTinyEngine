@@ -15,7 +15,7 @@ module Main =
   open Fable.Helpers.Herebris.Ste.Win
   open Fable.Helpers.Herebris.Ste.Utils
 
-  Fable.Import.Node.require.Invoke("core-js") |> ignore
+  importAll "core-js"
 
   [<StringEnum>]
   type Alignment =

@@ -10,5 +10,18 @@
     "stylus-watch": "stylus -u autoprefixer-stylus -w stylus/style.styl -o static/css/style.css"
   },
   "author": "Maxime Mangel <mangel.maxime@outlook.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^2.4.0",
+    "fable-core": "^0.2.3"
+  },
+  "devDependencies": {
+    "fable-compiler": "^0.4.6",
+    "http-server": "^0.9.0",
+    "source-map-loader": "^0.1.5",
+    "webpack": "^1.13.1"
+  },
+  "engines": {
+      "fable": "^0.4.0"
+  }
 }
