@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Herebris/SuperTinyEngine.png?label=ready&title=Ready)](https://waffle.io/Herebris/SuperTinyEngine)
 # SuperTinyEngine
 
 A little Engine made with [Fable](http://fsprojects.github.io/Fable/)
